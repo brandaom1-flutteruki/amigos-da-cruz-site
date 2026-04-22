@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Jost:wght@300;400;500&display=swap");
+
+:root {
+  --bg: #f4efe4;
+  --bg2: #ece5d4;
+  --bg3: #e8e0ce;
+  --bg4: #f0e8d8;
+  --cream: #1a1208;
+  --cream-dim: #6b5a3e;
+  --cream-faint: #9e8e72;
+  --crimson: #7a1518;
+  --crimson-l: #9c1c20;
+  --crimson-g: #5a0e12;
+  --gold: #8a6b28;
+  --gold-l: #a88338;
+  --gold-d: #6a5018;
+  --rule: rgba(122, 21, 24, 0.15);
+}
